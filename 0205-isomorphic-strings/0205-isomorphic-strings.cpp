@@ -7,7 +7,7 @@ public:
             return false;
         }
         for(int i=0;i<s.size();i++){
-            if(arr_s[s[i]]++ !=arr_t[t[i]]++){
+            if(arr_s[s[i]] !=arr_t[t[i]]){
                 return false;
             }
             arr_s[s[i]]=i+1;
