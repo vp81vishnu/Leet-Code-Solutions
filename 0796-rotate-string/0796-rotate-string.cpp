@@ -5,7 +5,9 @@ public:
         if(s.length()!=goal.length()){
             return false;
         }
-        if(res.find(goal)!=string::npos){
+        int a;
+        a=res.find(goal);
+        if(a<s.length() && a>=0){
             return true;
         }
         return false;
