@@ -5,9 +5,7 @@ public:
         if(s.length()!=goal.length()){
             return false;
         }
-        int a;
-        a=res.find(goal);
-        if(a<s.length() && a>=0){
+        if(res.find(goal)!=-1){
             return true;
         }
         return false;
