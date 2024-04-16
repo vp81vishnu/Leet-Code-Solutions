@@ -19,7 +19,7 @@ public:
         
         return result;
     }
-    private:
+    
     int findmax(int arr[]){
     int maximum=0;
     for(int i=0;i<256;i++){
