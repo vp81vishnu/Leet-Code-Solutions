@@ -28,3 +28,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0864-image-overlap](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0864-image-overlap) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+<!---LeetCode Topics End-->
