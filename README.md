@@ -635,4 +635,16 @@ g++ -o myapp main.cpp
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
