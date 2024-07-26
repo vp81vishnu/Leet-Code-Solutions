@@ -47,3 +47,15 @@ cd Leet-Code-Solutions
 ## 🛠 Technologies Used
 - **Programming Language**: C++
 - **Version Control**: Git & GitHub
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1250-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1250-longest-common-subsequence) |
+<!---LeetCode Topics End-->
