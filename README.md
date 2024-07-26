@@ -58,4 +58,12 @@ cd Leet-Code-Solutions
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1250-longest-common-subsequence) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
