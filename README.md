@@ -53,6 +53,7 @@ cd Leet-Code-Solutions
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [1250-longest-common-subsequence](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -66,4 +67,8 @@ cd Leet-Code-Solutions
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
