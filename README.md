@@ -47,3 +47,11 @@ cd Leet-Code-Solutions
 ## 🛠 Technologies Used
 - **Programming Language**: C++
 - **Version Control**: Git & GitHub
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
