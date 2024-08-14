@@ -45,22 +45,6 @@ cd Leet-Code-Solutions
 - **🤝 Contributions Welcome**: Suggestions for improvements or sharing your own solutions are encouraged!
 
 ## 🛠 Technologies Used
-- **Programming Language**: C++
+- **Programming Language**: C++,Mysql
 - **Version Control**: Git & GitHub
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0197-rising-temperature](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0197-rising-temperature) |
-| [0584-find-customer-referee](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0584-find-customer-referee) |
-| [0595-big-countries](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0595-big-countries) |
-| [0620-not-boring-movies](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0620-not-boring-movies) |
-| [1153-product-sales-analysis-i](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1153-product-sales-analysis-i) |
-| [1258-article-views-i](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1258-article-views-i) |
-| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
-| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
-| [1827-invalid-tweets](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1827-invalid-tweets) |
-| [1908-recyclable-and-low-fat-products](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
-<!---LeetCode Topics End-->
