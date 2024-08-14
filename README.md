@@ -35,7 +35,7 @@ To explore the solutions, simply clone this repository and navigate to the desir
 ```bash
 git clone https://github.com/vp81vishnu/Leet-Code-Solutions.git
 cd Leet-Code-Solutions
-
+```
 
 # Project Highlights
 
