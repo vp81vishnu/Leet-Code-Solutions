@@ -53,6 +53,7 @@ cd Leet-Code-Solutions
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0620-not-boring-movies) |
