@@ -47,3 +47,11 @@ cd Leet-Code-Solutions
 ## 🛠 Technologies Used
 - **Programming Language**: C++,Mysql
 - **Version Control**: Git & GitHub
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1390-average-selling-price) |
+<!---LeetCode Topics End-->
