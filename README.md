@@ -53,5 +53,6 @@ cd Leet-Code-Solutions
 ## Database
 |  |
 | ------- |
+| [1161-project-employees-i](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
