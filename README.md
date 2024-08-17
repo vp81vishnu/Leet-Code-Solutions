@@ -60,6 +60,7 @@ cd Leet-Code-Solutions
 | [1773-percentage-of-users-attended-a-contest](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
 |  |
 | ------- |
