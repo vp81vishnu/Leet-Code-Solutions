@@ -68,6 +68,7 @@ cd Leet-Code-Solutions
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -89,4 +90,16 @@ cd Leet-Code-Solutions
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0130-surrounded-regions) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
