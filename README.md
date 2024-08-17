@@ -68,4 +68,24 @@ cd Leet-Code-Solutions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0130-surrounded-regions) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
