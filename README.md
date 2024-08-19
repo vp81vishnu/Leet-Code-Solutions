@@ -73,12 +73,14 @@ cd Leet-Code-Solutions
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0130-surrounded-regions) |
 ## Depth-First Search
 |  |
@@ -116,4 +118,12 @@ cd Leet-Code-Solutions
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0394-decode-string) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
