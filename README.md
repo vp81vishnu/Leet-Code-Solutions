@@ -74,6 +74,7 @@ cd Leet-Code-Solutions
 | ------- |
 | [0067-add-binary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -106,4 +107,12 @@ cd Leet-Code-Solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
