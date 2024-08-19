@@ -63,6 +63,7 @@ cd Leet-Code-Solutions
 | [1801-average-time-of-process-per-machine](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
