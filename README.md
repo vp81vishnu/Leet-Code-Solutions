@@ -71,6 +71,7 @@ cd Leet-Code-Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -84,6 +85,7 @@ cd Leet-Code-Solutions
 | ------- |
 | [0049-group-anagrams](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0130-surrounded-regions) |
+| [0189-rotate-array](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0189-rotate-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ cd Leet-Code-Solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
