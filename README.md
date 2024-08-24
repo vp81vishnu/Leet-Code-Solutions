@@ -74,6 +74,7 @@ cd Leet-Code-Solutions
 | ------- |
 | [0189-rotate-array](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0344-reverse-string) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ cd Leet-Code-Solutions
 | [0049-group-anagrams](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0189-rotate-array) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -132,4 +134,9 @@ cd Leet-Code-Solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/2417-the-latest-time-to-catch-a-bus) |
+## Binary Search
+|  |
+| ------- |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/2417-the-latest-time-to-catch-a-bus) |
 <!---LeetCode Topics End-->
