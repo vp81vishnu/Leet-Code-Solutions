@@ -88,6 +88,7 @@ cd Leet-Code-Solutions
 | [0049-group-anagrams](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Depth-First Search
@@ -131,11 +132,13 @@ cd Leet-Code-Solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Binary Search
 |  |
