@@ -112,10 +112,12 @@ cd Leet-Code-Solutions
 | ------- |
 | [0067-add-binary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ cd Leet-Code-Solutions
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
