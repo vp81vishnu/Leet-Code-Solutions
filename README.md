@@ -61,6 +61,7 @@ cd Leet-Code-Solutions
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1338-queries-quality-and-percentage](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1390-average-selling-price) |
+| [1670-patients-with-a-condition](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/1811-fix-names-in-a-table) |
