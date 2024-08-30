@@ -53,6 +53,7 @@ cd Leet-Code-Solutions
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/vp81vishnu/Leet-Code-Solutions/tree/master/0610-triangle-judgement) |
